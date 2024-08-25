@@ -1,8 +1,6 @@
 # Sentiment Analysis Project
 
 **Author**: Chunduri Aditya  
-**GitHub Username**: [Chunduri-Aditya](https://github.com/Chunduri-Aditya)  
-**USC ID**: 8726443356  
 
 ## Project Overview
 
